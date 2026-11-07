@@ -50,7 +50,7 @@ rocksdb = { version = "0.24.0", default-features = false }
 alloc_counter = "0.0.4"
 sysinfo = "0.30.13"
 ctrlc = "3.1.4"
-chrono = "0.4"
+chrono = "0.4.45"
 num-traits = { version = "0.2", default-features = false }
 integer-sqrt = "0.1"
 bytes = { version = "1", default-features = false }
